@@ -1,0 +1,34 @@
+[
+  {
+    "key": "girisEmail",
+    "androidValue": "txtUserName",
+    "androidType": "id"
+  },
+  {
+    "key": "girisbutonLogin",
+    "androidValue": "btnLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "girisSifreText",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.widget.EditText",
+    "androidType": "xpath"
+  },
+  {
+    "key": "butonLoginSifre",
+    "androidValue": "btnEmailSelect",
+    "androidType": "id"
+  },
+  {
+    "key": "kullaniciGirisIsmi",
+    "androidValue": "com.pozitron.hepsiburada:id/tvUserNameFull",
+    "androidType": "id"
+  },
+  {
+    "key": "kullaniciBilgileriniKapat",
+    "androidValue": "com.pozitron.hepsiburada:id/ivToolbarBack",
+    "androidType": "id"
+
+  }
+
+]

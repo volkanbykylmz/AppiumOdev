@@ -1,0 +1,17 @@
+[
+  {
+    "key": "uyeOl",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_0']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "email",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "mailDevamEt",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  }
+]

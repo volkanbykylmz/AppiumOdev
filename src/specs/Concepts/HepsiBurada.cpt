@@ -1,0 +1,51 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hepsi Burada Oldugunu Kontrol Et
+* "hesabim" id'li elemente tikla
+
+# Hesabım Kismina Giris Yap
+* "hepsiburadalogo" id'li elemente tikla
+
+# Rastgele Favorilere Urun Ekle
+* "kategorilerrList2" xpath'li elemente tikla
+* "favUruneGit" xpath'li element git
+* "favaEkle" xpath'li elemente tikla
+* "favoriler" id'li elemente tikla
+
+# Giris Yap Action'una git
+* "girisYapSekme" xpath'li elemente tikla
+
+# Uye ol Action'una Tikla
+* "uyeOl" xpath'li elemente tikla
+
+# Favorilere git
+* "kategoriler" id'li elemente tikla
+
+# Kategorilere git
+* "kategoriler" id'li elemente tikla
+
+# Sepete git
+* "sepeteGit" id'li elemente tikla
+
+# Giris Yapildigini Dogrula ve Ana Ekrana dön
+* "kullaniciGirisIsmi" id'li element "Volkan Büyükyılmaz" text değerini içerdiğini kontrol et
+* "kullaniciBilgileriniKapat" id'li elemente tikla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

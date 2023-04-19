@@ -1,0 +1,10 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+
+# Giris Yap
+* "girisEmail" id'li elemente "volkan.buyukyilmaz@testinium.com" text degerini gonder
+* "girisbutonLogin" id'li elemente tikla
+* "girisSifreText" xpath'li elemente "12345678" text degerini gonder
+* "butonLoginSifre" id'li elemente tikla
+

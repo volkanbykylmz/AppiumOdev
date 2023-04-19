@@ -1,0 +1,54 @@
+[
+  {
+    "key": "hepsiburadalogo",
+    "androidValue": "com.pozitron.hepsiburada:id/image_message_of_day",
+    "androidType": "id"
+  },
+  {
+    "key": "hesabim",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+  },
+  {
+    "key": "girisYapSekme",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_1']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "favoriler",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_my_list",
+    "androidType": "id"
+  },
+  {
+    "key": "sepeteUrunSec",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup",
+    "androidType": "xpath"
+  },
+  {
+    "key": "sepeteUrunEkle",
+    "androidValue": "(//android.widget.Button[@content-desc=\"Sepete Ekle\"])",
+    "androidType": "xpath"
+  },
+  {
+    "key": "urunuEkle",
+    "androidValue": "com.pozitron.hepsiburada:id/atcb_product_variant",
+    "androidType": "id"
+  },
+  {
+    "key": "sepeteGit",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_cart",
+    "androidType": "id"
+  },
+  {
+  "key": "kategoriler",
+  "androidValue": "com.pozitron.hepsiburada:id/nav_graph_category",
+  "androidType": "id"
+},
+
+  {
+    "key": "kategorilerrList2",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[2]",
+    "androidType": "xpath"
+  }
+
+]

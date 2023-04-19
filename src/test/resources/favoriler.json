@@ -1,0 +1,14 @@
+[
+
+
+  {
+    "key": "favUruneGit",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.LinearLayout",
+    "androidType": "xpath"
+  },
+  {
+    "key": "favaEkle",
+    "androidValue": "(//android.widget.CheckBox[@content-desc='favoriye ekle'])[1]",
+    "androidType": "xpath"
+  }
+]

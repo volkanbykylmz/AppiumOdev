@@ -1,0 +1,9 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Rastgele Sepete Urun Ekle
+* "kategorilerrList2" xpath'li element git
+* "sepeteUrunSec" li elementi rasgele sec
+* "sepeteUrunEkle" li elementi rasgele sec
+* "urunuEkle" id'li elemente tikla
+

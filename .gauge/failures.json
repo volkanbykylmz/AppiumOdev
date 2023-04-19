@@ -1,0 +1,11 @@
+{
+	"Args": [
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
+	],
+	"FailedItems": [
+		"src\\specs\\HepsiBurada.spec:8"
+	]
+}

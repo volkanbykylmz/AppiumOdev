@@ -1,0 +1,7 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+
+# Mail adresi gir ve devam et
+* "email" id'li elemente "testinium@testinium.com" text degerini gonder
+* "mailDevamEt" id'li elemente tikla
